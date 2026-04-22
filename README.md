@@ -12,10 +12,10 @@ A icon library designed specifically for grocery stores, recipe apps, and househ
 - **Stroke Ends:** Round
 - **Corner Radius:** Round
 
-## 📄 License & Attribution
+## 📄 License
 This project is licensed under the **MIT License**.
 
-## 💛 Suggested Attribution
+## 💛 Attribution
 "Icons by PlateParrot - Your Smarter Grocery List: [PlateParrot](https://plateparrot.com/)"
 
 ## 📦 Project Structure

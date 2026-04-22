@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "icons": {
+    "pepper.svg": {
+      "presetIds": ["item_pepper"]
+    }
+  },
+  "categoryDefaults": {},
+  "placeholder": "placeholder.svg"
+}

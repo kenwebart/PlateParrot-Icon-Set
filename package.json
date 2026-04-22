@@ -1,0 +1,7 @@
+{
+  "name": "@plateparrot/icons",
+  "version": "0.1.0",
+  "description": "A free grocery icon set for food & retail.",
+  "files": ["plateparrot-icons/"],
+  "license": "MIT"
+}

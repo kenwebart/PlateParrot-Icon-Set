@@ -3,6 +3,7 @@
 A icon library designed specifically for grocery stores, recipe apps, and household management.
 
 ## ✨ Key Features
+- **320+ Icons**
 - **Pixel Perfect:** 1.5px stroke width with rounded caps and joins for a modern, friendly look.
 - **Developer Ready:** Optimized SVGs for web, iOS, and Android.
 

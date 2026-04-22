@@ -5,3 +5,13 @@ publish_to: none
 homepage: https://plateparrot.com
 repository: https://github.com/kenwebart/PlateParrot-Icon-Set
 issue_tracker: https://github.com/kenwebart/PlateParrot-Icon-Set/issues
+
+environment:
+  sdk: ^3.0.0
+  flutter: ">=3.0.0"
+
+# Exposes every SVG under plateparrot-icons/ as a package asset.
+# Consumers load them via `packages/plate_parrot_icons/plateparrot-icons/<name>.svg`.
+flutter:
+  assets:
+    - plateparrot-icons/

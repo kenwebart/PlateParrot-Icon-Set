@@ -15,7 +15,7 @@ A icon library designed specifically for grocery stores, recipe apps, and househ
 ## 📄 License & Attribution
 This project is licensed under the **MIT License**.
 
-## 💛 Suggested Attribution:
+## 💛 Suggested Attribution
 "Icons by PlateParrot - Your Smarter Grocery List: [PlateParrot](https://plateparrot.com/)"
 
 ## 📦 Project Structure

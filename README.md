@@ -19,7 +19,7 @@ This project is licensed under the **MIT License**.
 "Icons by PlateParrot - Your Smarter Grocery List: [PlateParrot](https://plateparrot.com/)"
 
 ## 📦 Project Structure
-- `/icons`: Individual SVG files named according to the item list.
+- `/plateparrot-icons`: Individual SVG files named according to the item list.
 
 ## 🤝 Contributing
 Missing an item from your shopping list? Just open an Issue and I'll create an icon.

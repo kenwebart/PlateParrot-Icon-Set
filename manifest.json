@@ -211,6 +211,11 @@
         "item_broth"
       ]
     },
+    "brush.svg": {
+      "presetIds": [
+        "item_paintbrush"
+      ]
+    },
     "burrata.svg": {
       "presetIds": [
         "item_burrata"
@@ -228,7 +233,8 @@
     },
     "cake.svg": {
       "presetIds": [
-        "item_cake"
+        "item_cake",
+        "item_cake_snack"
       ]
     },
     "candles.svg": {
@@ -901,6 +907,11 @@
         "item_lime"
       ]
     },
+    "lingonberry.svg": {
+      "presetIds": [
+        "item_lingonberry_sauce"
+      ]
+    },
     "lip-balm.svg": {
       "presetIds": [
         "item_lip_balm"
@@ -911,6 +922,11 @@
         "item_makeup_remover"
       ]
     },
+    "mandarins.svg": {
+      "presetIds": [
+        "item_mandarins"
+      ]
+    },
     "mango.svg": {
       "presetIds": [
         "item_mango"
@@ -918,7 +934,8 @@
     },
     "maple-syrup.svg": {
       "presetIds": [
-        "item_maple_syrup"
+        "item_maple_syrup",
+        "item_syrup"
       ]
     },
     "margarine.svg": {
@@ -1039,6 +1056,11 @@
     "nuts.svg": {
       "presetIds": [
         "item_nuts"
+      ]
+    },
+    "oat_milk.svg": {
+      "presetIds": [
+        "item_oat_milk"
       ]
     },
     "oats.svg": {
@@ -1231,6 +1253,16 @@
         "item_pretzel_sticks"
       ]
     },
+    "pretzels.svg": {
+      "presetIds": [
+        "item_pretzels"
+      ]
+    },
+    "prosciutto.svg": {
+      "presetIds": [
+        "item_prosciutto"
+      ]
+    },
     "pumpkin.svg": {
       "presetIds": [
         "item_pumpkin"
@@ -1239,6 +1271,11 @@
     "quark.svg": {
       "presetIds": [
         "item_quark"
+      ]
+    },
+    "raclette_cheese.svg": {
+      "presetIds": [
+        "item_raclette_cheese"
       ]
     },
     "radishes.svg": {
@@ -1266,9 +1303,19 @@
         "item_red_wine"
       ]
     },
+    "rhubarb.svg": {
+      "presetIds": [
+        "item_rhubarb"
+      ]
+    },
     "rice.svg": {
       "presetIds": [
         "item_rice"
+      ]
+    },
+    "ricotta.svg": {
+      "presetIds": [
+        "item_ricotta"
       ]
     },
     "risotto-rice.svg": {
@@ -1279,6 +1326,11 @@
     "rosemary.svg": {
       "presetIds": [
         "item_rosemary"
+      ]
+    },
+    "rum.svg": {
+      "presetIds": [
+        "item_rum"
       ]
     },
     "salad-dressing.svg": {
@@ -1321,9 +1373,19 @@
         "item_schnapps"
       ]
     },
+    "semolina.svg": {
+      "presetIds": [
+        "item_semolina"
+      ]
+    },
     "shampoo.svg": {
       "presetIds": [
         "item_shampoo"
+      ]
+    },
+    "shaving-cream.svg": {
+      "presetIds": [
+        "item_shaving_cream"
       ]
     },
     "shower-gel.svg": {
@@ -1331,9 +1393,29 @@
         "item_shower_gel"
       ]
     },
+    "shrimp.svg": {
+      "presetIds": [
+        "item_shrimp"
+      ]
+    },
+    "smoothie.svg": {
+      "presetIds": [
+        "item_smoothie"
+      ]
+    },
+    "snacks.svg": {
+      "presetIds": [
+        "item_snacks"
+      ]
+    },
     "soap.svg": {
       "presetIds": [
         "item_soap"
+      ]
+    },
+    "soup.svg": {
+      "presetIds": [
+        "item_frozen_soup"
       ]
     },
     "sour-cream.svg": {
@@ -1491,6 +1573,11 @@
         "item_trash_bags"
       ]
     },
+    "tuna.svg": {
+      "presetIds": [
+        "item_tuna"
+      ]
+    },
     "vanilla-sugar.svg": {
       "presetIds": [
         "item_vanilla_sugar"
@@ -1499,6 +1586,11 @@
     "vinegar.svg": {
       "presetIds": [
         "item_vinegar"
+      ]
+    },
+    "vodka.svg": {
+      "presetIds": [
+        "item_vodka"
       ]
     },
     "walnuts.svg": {
@@ -1514,6 +1606,11 @@
     "watermelon.svg": {
       "presetIds": [
         "item_watermelon"
+      ]
+    },
+    "whisky.svg": {
+      "presetIds": [
+        "item_whisky"
       ]
     },
     "white-wine.svg": {

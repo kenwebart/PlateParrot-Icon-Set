@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="PlateParrot-Icon-Set-Cover" src="https://github.com/user-attachments/assets/085d04d3-8fd6-4888-91d3-b380a4651ac5" />
+
 # 🦜 PlateParrot Icon Set
 
 A icon library designed specifically for grocery stores, recipe apps, and household management.

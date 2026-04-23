@@ -73,7 +73,7 @@
     },
     "baking-paper.svg": {
       "presetIds": [
-        "item_baking_paper"
+        "item_parchment_paper"
       ]
     },
     "baking-powder.svg": {
@@ -93,7 +93,7 @@
     },
     "band-aids.svg": {
       "presetIds": [
-        "item_band_aids"
+        "item_bandages"
       ]
     },
     "basil.svg": {
@@ -368,7 +368,7 @@
     },
     "cling-wrap.svg": {
       "presetIds": [
-        "item_cling_wrap"
+        "item_plastic_wrap"
       ]
     },
     "cocoa.svg": {
@@ -393,7 +393,7 @@
     },
     "coffee-pads.svg": {
       "presetIds": [
-        "item_coffee_pads"
+        "item_coffee_pods"
       ]
     },
     "coffee.svg": {
@@ -533,7 +533,7 @@
     },
     "diet-lemonade.svg": {
       "presetIds": [
-        "item_diet_lemonade"
+        "item_diet_soda"
       ]
     },
     "dip.svg": {
@@ -738,7 +738,7 @@
     },
     "grated-cheese.svg": {
       "presetIds": [
-        "item_grated_cheese"
+        "item_shredded_cheese"
       ]
     },
     "gravy.svg": {
@@ -783,7 +783,7 @@
     },
     "handkerchiefs.svg": {
       "presetIds": [
-        "item_handkerchiefs"
+        "item_tissues_pocket"
       ]
     },
     "hazelnuts.svg": {
@@ -878,7 +878,7 @@
     },
     "lemonade.svg": {
       "presetIds": [
-        "item_lemonade"
+        "item_soda"
       ]
     },
     "lentils.svg": {
@@ -1088,7 +1088,7 @@
     },
     "painkillers.svg": {
       "presetIds": [
-        "item_painkillers"
+        "item_pain_relievers"
       ]
     },
     "paper-towels.svg": {
